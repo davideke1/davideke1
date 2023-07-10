@@ -6,9 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronic and communication engineering at GITAM univesiry, Hyderabad.
-- 💼 &nbsp; 
-- 🌱 &nbsp;
-- ✍️ &nbsp; 
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
