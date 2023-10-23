@@ -40,8 +40,9 @@ I'm a curious and aspiring student on a quest to explore the vast world of techn
 
 <p align="center">
 <a href="https://github.com/davideke1?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/davideke1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
