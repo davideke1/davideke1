@@ -1,4 +1,4 @@
-![Ekechukwu David Banner](https://github.com/davideke1/davideke1/blob/main/github-banner.jpg)
+
 
 <img alt="Hand Wave" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm David</h2>
 
@@ -13,7 +13,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="./Night-Coding.gif" align="right"  height='100'/>
+<img alt="Night Coding" src="./Night-Coding.gif" align="right"  height='150'/>
 
 ### 🛠 &nbsp;Tech Stack
 
