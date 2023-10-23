@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/davideke1/davideke1/blob/main/github-banner.jpg" width="800" height="200">
-</div>
-
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm David</h2>
+# Ekechukwu David 💻
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a curious and aspiring student on a quest to explore the vast world of technology, building a strong foundation in Python, C, and web development technologies like HTML, CSS, Bootstrap, Django, and MySQL. As I pursue my degree in Electronics and Communication Engineering with a focus on microprocessor design, my GitHub repositories reflect a diverse mix of hardware and software, showcasing my passion for both fields. Lifelong learning, collaboration, and networking are my priorities as I seek exciting projects and connections to build a boundless future in the ever-evolving tech landscape.
@@ -42,6 +38,10 @@ I'm a curious and aspiring student on a quest to explore the vast world of techn
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/davideke1?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
