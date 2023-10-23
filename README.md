@@ -1,4 +1,4 @@
-![Ekechukwu David Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Ekechukwu David Banner](https://github.com/davideke1/davideke1/blob/main/github-banner.jpg)
 
 <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm David</h2>
 
