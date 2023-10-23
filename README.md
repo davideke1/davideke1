@@ -1,4 +1,6 @@
-![Ekechukwu David Banner](https://github.com/davideke1/davideke1/blob/main/github-banner.jpg)
+<div align="center">
+  <img src="https://github.com/davideke1/davideke1/blob/main/github-banner.jpg" width="800" height="200">
+</div>
 
 <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm David</h2>
 
