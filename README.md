@@ -1,16 +1,16 @@
 
 
-<img alt="Hand Wave" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm David</h2>
+<img alt="Hand Wave" src="./Hand%20Wave.gif"  align="left"/><h2>Hey there! I'm David</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
+I'm a curious and aspiring student on a quest to explore the vast world of technology, building a strong foundation in Python, C, and web development technologies like HTML, CSS, Bootstrap, Django, and MySQL. As I pursue my degree in Electronics and Communication Engineering with a focus on microprocessor design, my GitHub repositories reflect a diverse mix of hardware and software, showcasing my passion for both fields. Lifelong learning, collaboration, and networking are my priorities as I seek exciting projects and connections to build a boundless future in the ever-evolving tech landscape.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I like to explore new technologies and develop software solutions and hardware designs.\
+🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at GITAM University Hyderabad.\
+🌱 &nbsp;I'm on track to learn more about Microprocessors Design, IoT Systems Design, and Web development and Artificial Intelligence.\
+✍️ &nbsp;In my free time, I pursue Cyber Security, Football, and Skating as hobbies/.\
+✉️ &nbsp;You can shoot me an email at ekechukwudavid@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="./Night-Coding.gif" align="right"  height='150'/>
