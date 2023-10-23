@@ -1,6 +1,6 @@
 
 
-<img alt="Hand Wave" src="./Hand%20Wave.gif" width='30'  align="left"/><h2>Hey there! I'm David</h2>
+<img alt="Hand Wave" src="./Hand%20Wave.gif" width='50'  align="left"/><h2>Hey there! I'm David</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a curious and aspiring student on a quest to explore the vast world of technology, building a strong foundation in Python, C, and web development technologies like HTML, CSS, Bootstrap, Django, and MySQL. As I pursue my degree in Electronics and Communication Engineering with a focus on microprocessor design, my GitHub repositories reflect a diverse mix of hardware and software, showcasing my passion for both fields. Lifelong learning, collaboration, and networking are my priorities as I seek exciting projects and connections to build a boundless future in the ever-evolving tech landscape.
@@ -13,7 +13,7 @@ I'm a curious and aspiring student on a quest to explore the vast world of techn
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="./Night-Coding.gif" align="right"  height='150'/>
+<img alt="Night Coding" src="./Night-Coding.gif" align="right"  height='130'/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,7 +29,7 @@ I'm a curious and aspiring student on a quest to explore the vast world of techn
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
