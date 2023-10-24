@@ -35,6 +35,7 @@ I'm a curious and aspiring student on a quest to explore the vast world of techn
 <a href="https://github.com/davideke1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davideke1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davideke1&layout=compact&langs_count=8&theme=algolia"/>
+  <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davideke1&theme=midnight-purple" alt="ekechukwudavid" /></p>
 </a>
 </p>
 
